@@ -7,7 +7,7 @@ The program reads a text file which contain the information for several camping 
 For each camping trip, the program will output one line per participant indicating how much he/she must pay or be paid rounded to the nearest cent.  If the participant owes money to the group, then the amount is positive.  If the participant should collect money from the group, then the amount is negative.  Negative amounts should be denoted by enclosing the amount in brackets.  Each trip are separated by a blank line.
 
 ## Example Input
-3
+3  
 2
 10.00
 20.00
